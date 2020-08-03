@@ -13,6 +13,7 @@ Necessita configurar o banco no arquivo application.properties, nele contém tod
 - mvn spring-boot:run => Este comando sobe a aplicação.
 3. Pode rodar a aplicação dos testes na pasta SRC/Test.
 -  Nele contém os dois arquivos de testes, basta apenas subir aplicação em: run test unit 
+4. Versão Java 8.
 
 ## **Porta da Aplicação**
 - Porta definida 3000 para acessar API principal.
